@@ -59,6 +59,7 @@ A comprehensive collection of algorithms and problem-solving patterns used in Le
 | Problem | Category | Difficulty | Pattern | Status |
 |---------|----------|------------|---------|--------|
 | [Rotate Array](./Arrays/RotateArray.md) | Arrays | Medium | Array Manipulation | ✅ Complete |
+| [Majority Element](./Arrays/MajorityElement.md) | Arrays | Easy | Voting Algorithm | ✅ Complete |
 
 ## 🔧 Algorithm Patterns
 

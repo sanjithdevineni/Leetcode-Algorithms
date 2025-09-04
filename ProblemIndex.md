@@ -3,8 +3,8 @@
 A comprehensive index of all problems in this repository, organized by category and difficulty.
 
 ## 📊 Summary Statistics
-- **Total Problems**: 1
-- **Easy**: 0
+- **Total Problems**: 2
+- **Easy**: 1
 - **Medium**: 1  
 - **Hard**: 0
 
@@ -14,6 +14,7 @@ A comprehensive index of all problems in this repository, organized by category 
 | Problem | Difficulty | Pattern | Status | Link |
 |---------|------------|---------|--------|------|
 | Rotate Array | Medium | Array Manipulation | ✅ Complete | [View](./Arrays/RotateArray.md) |
+| Majority Element | Easy | Voting Algorithm | ✅ Complete | [View](./Arrays/MajorityElement.md) |
 
 ### Strings
 | Problem | Difficulty | Pattern | Status | Link |
@@ -43,7 +44,9 @@ A comprehensive index of all problems in this repository, organized by category 
 ## 🔥 By Difficulty
 
 ### Easy Problems
-*No easy problems yet*
+| Problem | Category | Pattern | Status | Link |
+|---------|----------|---------|--------|------|
+| Majority Element | Arrays | Voting Algorithm | ✅ Complete | [View](./Arrays/MajorityElement.md) |
 
 ### Medium Problems
 | Problem | Category | Pattern | Status | Link |
@@ -59,6 +62,11 @@ A comprehensive index of all problems in this repository, organized by category 
 | Problem | Difficulty | Status | Link |
 |---------|------------|--------|------|
 | Rotate Array | Medium | ✅ Complete | [View](./Arrays/RotateArray.md) |
+
+### Voting Algorithm
+| Problem | Difficulty | Status | Link |
+|---------|------------|--------|------|
+| Majority Element | Easy | ✅ Complete | [View](./Arrays/MajorityElement.md) |
 
 ### Two Pointers
 *No problems yet*
@@ -78,7 +86,7 @@ A comprehensive index of all problems in this repository, organized by category 
 ## 📈 Progress Tracking
 
 ### Completion Status
-- ✅ **Completed**: 1 problem
+- ✅ **Completed**: 2 problems
 - 🔄 **In Progress**: 0 problems  
 - 📝 **Planned**: 0 problems
 
@@ -100,4 +108,4 @@ A comprehensive index of all problems in this repository, organized by category 
 ---
 
 *Last updated: $(date)*
-*Total problems: 1*
+*Total problems: 2*
