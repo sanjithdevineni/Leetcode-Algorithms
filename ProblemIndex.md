@@ -3,8 +3,8 @@
 A comprehensive index of all problems in this repository, organized by category and difficulty.
 
 ## 📊 Summary Statistics
-- **Total Problems**: 2
-- **Easy**: 1
+- **Total Problems**: 3
+- **Easy**: 2
 - **Medium**: 1  
 - **Hard**: 0
 
@@ -15,6 +15,7 @@ A comprehensive index of all problems in this repository, organized by category 
 |---------|------------|---------|--------|------|
 | Rotate Array | Medium | Array Manipulation | ✅ Complete | [View](./Arrays/RotateArray.md) |
 | Majority Element | Easy | Voting Algorithm | ✅ Complete | [View](./Arrays/MajorityElement.md) |
+| Remove Duplicates from Sorted Array | Easy | Two Pointers | ✅ Complete | [View](./Arrays/RemoveDuplicatesFromSortedArray.md) |
 
 ### Strings
 | Problem | Difficulty | Pattern | Status | Link |
@@ -47,6 +48,7 @@ A comprehensive index of all problems in this repository, organized by category 
 | Problem | Category | Pattern | Status | Link |
 |---------|----------|---------|--------|------|
 | Majority Element | Arrays | Voting Algorithm | ✅ Complete | [View](./Arrays/MajorityElement.md) |
+| Remove Duplicates from Sorted Array | Arrays | Two Pointers | ✅ Complete | [View](./Arrays/RemoveDuplicatesFromSortedArray.md) |
 
 ### Medium Problems
 | Problem | Category | Pattern | Status | Link |
@@ -69,7 +71,9 @@ A comprehensive index of all problems in this repository, organized by category 
 | Majority Element | Easy | ✅ Complete | [View](./Arrays/MajorityElement.md) |
 
 ### Two Pointers
-*No problems yet*
+| Problem | Difficulty | Status | Link |
+|---------|------------|--------|------|
+| Remove Duplicates from Sorted Array | Easy | ✅ Complete | [View](./Arrays/RemoveDuplicatesFromSortedArray.md) |
 
 ### Sliding Window
 *No problems yet*
@@ -86,7 +90,7 @@ A comprehensive index of all problems in this repository, organized by category 
 ## 📈 Progress Tracking
 
 ### Completion Status
-- ✅ **Completed**: 2 problems
+- ✅ **Completed**: 3 problems
 - 🔄 **In Progress**: 0 problems  
 - 📝 **Planned**: 0 problems
 
@@ -108,4 +112,4 @@ A comprehensive index of all problems in this repository, organized by category 
 ---
 
 *Last updated: $(date)*
-*Total problems: 2*
+*Total problems: 3*
