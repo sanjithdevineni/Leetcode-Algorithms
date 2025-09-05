@@ -61,6 +61,7 @@ A comprehensive collection of algorithms and problem-solving patterns used in Le
 | [Rotate Array](./Arrays/RotateArray.md) | Arrays | Medium | Array Manipulation | ✅ Complete |
 | [Majority Element](./Arrays/MajorityElement.md) | Arrays | Easy | Voting Algorithm | ✅ Complete |
 | [Remove Duplicates from Sorted Array](./Arrays/RemoveDuplicatesFromSortedArray.md) | Arrays | Easy | Two Pointers | ✅ Complete |
+| [Remove Duplicates from Sorted Array II](./Arrays/RemoveDuplicatesFromSortedArrayII.md) | Arrays | Medium | Two Pointers | ✅ Complete |
 
 ## 🔧 Algorithm Patterns
 
