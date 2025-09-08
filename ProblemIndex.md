@@ -3,9 +3,9 @@
 A comprehensive index of all problems in this repository, organized by category and difficulty.
 
 ## 📊 Summary Statistics
-- **Total Problems**: 5
+- **Total Problems**: 6
 - **Easy**: 3
-- **Medium**: 2  
+- **Medium**: 3  
 - **Hard**: 0
 
 ## 🎯 By Category
@@ -22,7 +22,7 @@ A comprehensive index of all problems in this repository, organized by category 
 ### Strings
 | Problem | Difficulty | Pattern | Status | Link |
 |---------|------------|---------|--------|------|
-| *Coming Soon* | - | - | - | - |
+| Minimum Operations to Transform String | Medium | String Manipulation | ✅ Complete | [View](./Strings/MinimumOperationsToTransformString.md) |
 
 ### Linked Lists
 | Problem | Difficulty | Pattern | Status | Link |
@@ -58,6 +58,7 @@ A comprehensive index of all problems in this repository, organized by category 
 |---------|----------|---------|--------|------|
 | Rotate Array | Arrays | Array Manipulation | ✅ Complete | [View](./Arrays/RotateArray.md) |
 | Remove Duplicates from Sorted Array II | Arrays | Two Pointers | ✅ Complete | [View](./Arrays/RemoveDuplicatesFromSortedArrayII.md) |
+| Minimum Operations to Transform String | Strings | String Manipulation | ✅ Complete | [View](./Strings/MinimumOperationsToTransformString.md) |
 
 ### Hard Problems
 *No hard problems yet*
@@ -83,6 +84,11 @@ A comprehensive index of all problems in this repository, organized by category 
 ### Sliding Window
 *No problems yet*
 
+### String Manipulation
+| Problem | Difficulty | Status | Link |
+|---------|------------|--------|------|
+| Minimum Operations to Transform String | Medium | ✅ Complete | [View](./Strings/MinimumOperationsToTransformString.md) |
+
 ### Tree Traversal
 *No problems yet*
 
@@ -100,7 +106,7 @@ A comprehensive index of all problems in this repository, organized by category 
 ## 📈 Progress Tracking
 
 ### Completion Status
-- ✅ **Completed**: 5 problems
+- ✅ **Completed**: 6 problems
 - 🔄 **In Progress**: 0 problems  
 - 📝 **Planned**: 0 problems
 
@@ -122,4 +128,4 @@ A comprehensive index of all problems in this repository, organized by category 
 ---
 
 *Last updated: $(date)*
-*Total problems: 5*
+*Total problems: 6*
