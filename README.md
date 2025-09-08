@@ -64,6 +64,7 @@ A comprehensive collection of algorithms and problem-solving patterns used in Le
 | [Remove Duplicates from Sorted Array II](./Arrays/RemoveDuplicatesFromSortedArrayII.md) | Arrays | Medium | Two Pointers | ✅ Complete |
 | [Minimum Operations to Equalize Array](./Arrays/MinimumOperationsToEqualizeArray.md) | Arrays | Easy | Bitwise Operations | ✅ Complete |
 | [Minimum Operations to Transform String](./Strings/MinimumOperationsToTransformString.md) | Strings | Medium | String Manipulation | ✅ Complete |
+| [Count Bowl Subarrays](./Arrays/CountBowlSubarrays.md) | Arrays | Medium | Monotonic Stack | ✅ Complete |
 
 ## 🔧 Algorithm Patterns
 

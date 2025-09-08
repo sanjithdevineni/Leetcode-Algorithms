@@ -3,9 +3,9 @@
 A comprehensive index of all problems in this repository, organized by category and difficulty.
 
 ## 📊 Summary Statistics
-- **Total Problems**: 6
+- **Total Problems**: 7
 - **Easy**: 3
-- **Medium**: 3  
+- **Medium**: 4  
 - **Hard**: 0
 
 ## 🎯 By Category
@@ -18,6 +18,7 @@ A comprehensive index of all problems in this repository, organized by category 
 | Remove Duplicates from Sorted Array | Easy | Two Pointers | ✅ Complete | [View](./Arrays/RemoveDuplicatesFromSortedArray.md) |
 | Remove Duplicates from Sorted Array II | Medium | Two Pointers | ✅ Complete | [View](./Arrays/RemoveDuplicatesFromSortedArrayII.md) |
 | Minimum Operations to Equalize Array | Easy | Bitwise Operations | ✅ Complete | [View](./Arrays/MinimumOperationsToEqualizeArray.md) |
+| Count Bowl Subarrays | Medium | Monotonic Stack | ✅ Complete | [View](./Arrays/CountBowlSubarrays.md) |
 
 ### Strings
 | Problem | Difficulty | Pattern | Status | Link |
@@ -59,6 +60,7 @@ A comprehensive index of all problems in this repository, organized by category 
 | Rotate Array | Arrays | Array Manipulation | ✅ Complete | [View](./Arrays/RotateArray.md) |
 | Remove Duplicates from Sorted Array II | Arrays | Two Pointers | ✅ Complete | [View](./Arrays/RemoveDuplicatesFromSortedArrayII.md) |
 | Minimum Operations to Transform String | Strings | String Manipulation | ✅ Complete | [View](./Strings/MinimumOperationsToTransformString.md) |
+| Count Bowl Subarrays | Arrays | Monotonic Stack | ✅ Complete | [View](./Arrays/CountBowlSubarrays.md) |
 
 ### Hard Problems
 *No hard problems yet*
@@ -95,6 +97,11 @@ A comprehensive index of all problems in this repository, organized by category 
 ### Dynamic Programming
 *No problems yet*
 
+### Monotonic Stack
+| Problem | Difficulty | Status | Link |
+|---------|------------|--------|------|
+| Count Bowl Subarrays | Medium | ✅ Complete | [View](./Arrays/CountBowlSubarrays.md) |
+
 ### Binary Search
 *No problems yet*
 
@@ -106,7 +113,7 @@ A comprehensive index of all problems in this repository, organized by category 
 ## 📈 Progress Tracking
 
 ### Completion Status
-- ✅ **Completed**: 6 problems
+- ✅ **Completed**: 7 problems
 - 🔄 **In Progress**: 0 problems  
 - 📝 **Planned**: 0 problems
 
@@ -128,4 +135,4 @@ A comprehensive index of all problems in this repository, organized by category 
 ---
 
 *Last updated: $(date)*
-*Total problems: 6*
+*Total problems: 7*
