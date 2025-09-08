@@ -3,8 +3,8 @@
 A comprehensive index of all problems in this repository, organized by category and difficulty.
 
 ## 📊 Summary Statistics
-- **Total Problems**: 4
-- **Easy**: 2
+- **Total Problems**: 5
+- **Easy**: 3
 - **Medium**: 2  
 - **Hard**: 0
 
@@ -17,6 +17,7 @@ A comprehensive index of all problems in this repository, organized by category 
 | Majority Element | Easy | Voting Algorithm | ✅ Complete | [View](./Arrays/MajorityElement.md) |
 | Remove Duplicates from Sorted Array | Easy | Two Pointers | ✅ Complete | [View](./Arrays/RemoveDuplicatesFromSortedArray.md) |
 | Remove Duplicates from Sorted Array II | Medium | Two Pointers | ✅ Complete | [View](./Arrays/RemoveDuplicatesFromSortedArrayII.md) |
+| Minimum Operations to Equalize Array | Easy | Bitwise Operations | ✅ Complete | [View](./Arrays/MinimumOperationsToEqualizeArray.md) |
 
 ### Strings
 | Problem | Difficulty | Pattern | Status | Link |
@@ -50,6 +51,7 @@ A comprehensive index of all problems in this repository, organized by category 
 |---------|----------|---------|--------|------|
 | Majority Element | Arrays | Voting Algorithm | ✅ Complete | [View](./Arrays/MajorityElement.md) |
 | Remove Duplicates from Sorted Array | Arrays | Two Pointers | ✅ Complete | [View](./Arrays/RemoveDuplicatesFromSortedArray.md) |
+| Minimum Operations to Equalize Array | Arrays | Bitwise Operations | ✅ Complete | [View](./Arrays/MinimumOperationsToEqualizeArray.md) |
 
 ### Medium Problems
 | Problem | Category | Pattern | Status | Link |
@@ -90,10 +92,15 @@ A comprehensive index of all problems in this repository, organized by category 
 ### Binary Search
 *No problems yet*
 
+### Bitwise Operations
+| Problem | Difficulty | Status | Link |
+|---------|------------|--------|------|
+| Minimum Operations to Equalize Array | Easy | ✅ Complete | [View](./Arrays/MinimumOperationsToEqualizeArray.md) |
+
 ## 📈 Progress Tracking
 
 ### Completion Status
-- ✅ **Completed**: 4 problems
+- ✅ **Completed**: 5 problems
 - 🔄 **In Progress**: 0 problems  
 - 📝 **Planned**: 0 problems
 
@@ -115,4 +122,4 @@ A comprehensive index of all problems in this repository, organized by category 
 ---
 
 *Last updated: $(date)*
-*Total problems: 4*
+*Total problems: 5*
