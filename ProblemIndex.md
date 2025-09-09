@@ -3,10 +3,10 @@
 A comprehensive index of all problems in this repository, organized by category and difficulty.
 
 ## 📊 Summary Statistics
-- **Total Problems**: 7
+- **Total Problems**: 8
 - **Easy**: 3
 - **Medium**: 4  
-- **Hard**: 0
+- **Hard**: 1
 
 ## 🎯 By Category
 
@@ -34,6 +34,11 @@ A comprehensive index of all problems in this repository, organized by category 
 | Problem | Difficulty | Pattern | Status | Link |
 |---------|------------|---------|--------|------|
 | *Coming Soon* | - | - | - | - |
+
+### Math
+| Problem | Difficulty | Pattern | Status | Link |
+|---------|------------|---------|--------|------|
+| Count Binary Palindromic Numbers | Hard | Bit Manipulation | ✅ Complete | [View](./Math/CountBinaryPalindromicNumbers.md) |
 
 ### Dynamic Programming
 | Problem | Difficulty | Pattern | Status | Link |
@@ -63,7 +68,9 @@ A comprehensive index of all problems in this repository, organized by category 
 | Count Bowl Subarrays | Arrays | Monotonic Stack | ✅ Complete | [View](./Arrays/CountBowlSubarrays.md) |
 
 ### Hard Problems
-*No hard problems yet*
+| Problem | Category | Pattern | Status | Link |
+|---------|----------|---------|--------|------|
+| Count Binary Palindromic Numbers | Math | Bit Manipulation | ✅ Complete | [View](./Math/CountBinaryPalindromicNumbers.md) |
 
 ## 🎨 By Pattern
 
@@ -109,11 +116,12 @@ A comprehensive index of all problems in this repository, organized by category 
 | Problem | Difficulty | Status | Link |
 |---------|------------|--------|------|
 | Minimum Operations to Equalize Array | Easy | ✅ Complete | [View](./Arrays/MinimumOperationsToEqualizeArray.md) |
+| Count Binary Palindromic Numbers | Hard | ✅ Complete | [View](./Math/CountBinaryPalindromicNumbers.md) |
 
 ## 📈 Progress Tracking
 
 ### Completion Status
-- ✅ **Completed**: 7 problems
+- ✅ **Completed**: 8 problems
 - 🔄 **In Progress**: 0 problems  
 - 📝 **Planned**: 0 problems
 
@@ -135,4 +143,4 @@ A comprehensive index of all problems in this repository, organized by category 
 ---
 
 *Last updated: $(date)*
-*Total problems: 7*
+*Total problems: 8*

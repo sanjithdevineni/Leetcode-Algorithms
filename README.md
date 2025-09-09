@@ -65,6 +65,7 @@ A comprehensive collection of algorithms and problem-solving patterns used in Le
 | [Minimum Operations to Equalize Array](./Arrays/MinimumOperationsToEqualizeArray.md) | Arrays | Easy | Bitwise Operations | ✅ Complete |
 | [Minimum Operations to Transform String](./Strings/MinimumOperationsToTransformString.md) | Strings | Medium | String Manipulation | ✅ Complete |
 | [Count Bowl Subarrays](./Arrays/CountBowlSubarrays.md) | Arrays | Medium | Monotonic Stack | ✅ Complete |
+| [Count Binary Palindromic Numbers](./Math/CountBinaryPalindromicNumbers.md) | Math | Hard | Bit Manipulation | ✅ Complete |
 
 ## 🔧 Algorithm Patterns
 
