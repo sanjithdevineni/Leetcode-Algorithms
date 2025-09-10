@@ -66,6 +66,7 @@ A comprehensive collection of algorithms and problem-solving patterns used in Le
 | [Minimum Operations to Transform String](./Strings/MinimumOperationsToTransformString.md) | Strings | Medium | String Manipulation | ✅ Complete |
 | [Count Bowl Subarrays](./Arrays/CountBowlSubarrays.md) | Arrays | Medium | Monotonic Stack | ✅ Complete |
 | [Count Binary Palindromic Numbers](./Math/CountBinaryPalindromicNumbers.md) | Math | Hard | Bit Manipulation | ✅ Complete |
+| [Best Time to Buy and Sell Stock](./Arrays/BestTimeToBuyAndSellStock.md) | Arrays | Easy | Greedy | ✅ Complete |
 
 ## 🔧 Algorithm Patterns
 

@@ -3,8 +3,8 @@
 A comprehensive index of all problems in this repository, organized by category and difficulty.
 
 ## 📊 Summary Statistics
-- **Total Problems**: 8
-- **Easy**: 3
+- **Total Problems**: 9
+- **Easy**: 4
 - **Medium**: 4  
 - **Hard**: 1
 
@@ -19,6 +19,7 @@ A comprehensive index of all problems in this repository, organized by category 
 | Remove Duplicates from Sorted Array II | Medium | Two Pointers | ✅ Complete | [View](./Arrays/RemoveDuplicatesFromSortedArrayII.md) |
 | Minimum Operations to Equalize Array | Easy | Bitwise Operations | ✅ Complete | [View](./Arrays/MinimumOperationsToEqualizeArray.md) |
 | Count Bowl Subarrays | Medium | Monotonic Stack | ✅ Complete | [View](./Arrays/CountBowlSubarrays.md) |
+| Best Time to Buy and Sell Stock | Easy | Greedy | ✅ Complete | [View](./Arrays/BestTimeToBuyAndSellStock.md) |
 
 ### Strings
 | Problem | Difficulty | Pattern | Status | Link |
@@ -58,6 +59,7 @@ A comprehensive index of all problems in this repository, organized by category 
 | Majority Element | Arrays | Voting Algorithm | ✅ Complete | [View](./Arrays/MajorityElement.md) |
 | Remove Duplicates from Sorted Array | Arrays | Two Pointers | ✅ Complete | [View](./Arrays/RemoveDuplicatesFromSortedArray.md) |
 | Minimum Operations to Equalize Array | Arrays | Bitwise Operations | ✅ Complete | [View](./Arrays/MinimumOperationsToEqualizeArray.md) |
+| Best Time to Buy and Sell Stock | Arrays | Greedy | ✅ Complete | [View](./Arrays/BestTimeToBuyAndSellStock.md) |
 
 ### Medium Problems
 | Problem | Category | Pattern | Status | Link |
@@ -104,6 +106,11 @@ A comprehensive index of all problems in this repository, organized by category 
 ### Dynamic Programming
 *No problems yet*
 
+### Greedy
+| Problem | Difficulty | Status | Link |
+|---------|------------|--------|------|
+| Best Time to Buy and Sell Stock | Easy | ✅ Complete | [View](./Arrays/BestTimeToBuyAndSellStock.md) |
+
 ### Monotonic Stack
 | Problem | Difficulty | Status | Link |
 |---------|------------|--------|------|
@@ -121,7 +128,7 @@ A comprehensive index of all problems in this repository, organized by category 
 ## 📈 Progress Tracking
 
 ### Completion Status
-- ✅ **Completed**: 8 problems
+- ✅ **Completed**: 9 problems
 - 🔄 **In Progress**: 0 problems  
 - 📝 **Planned**: 0 problems
 
@@ -143,4 +150,4 @@ A comprehensive index of all problems in this repository, organized by category 
 ---
 
 *Last updated: $(date)*
-*Total problems: 8*
+*Total problems: 9*
