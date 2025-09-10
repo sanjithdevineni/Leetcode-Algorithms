@@ -3,9 +3,9 @@
 A comprehensive index of all problems in this repository, organized by category and difficulty.
 
 ## 📊 Summary Statistics
-- **Total Problems**: 9
+- **Total Problems**: 10
 - **Easy**: 4
-- **Medium**: 4  
+- **Medium**: 5  
 - **Hard**: 1
 
 ## 🎯 By Category
@@ -20,6 +20,7 @@ A comprehensive index of all problems in this repository, organized by category 
 | Minimum Operations to Equalize Array | Easy | Bitwise Operations | ✅ Complete | [View](./Arrays/MinimumOperationsToEqualizeArray.md) |
 | Count Bowl Subarrays | Medium | Monotonic Stack | ✅ Complete | [View](./Arrays/CountBowlSubarrays.md) |
 | Best Time to Buy and Sell Stock | Easy | Greedy | ✅ Complete | [View](./Arrays/BestTimeToBuyAndSellStock.md) |
+| Best Time to Buy and Sell Stock II | Medium | Greedy | ✅ Complete | [View](./Arrays/BestTimeToBuyAndSellStockII.md) |
 
 ### Strings
 | Problem | Difficulty | Pattern | Status | Link |
@@ -68,6 +69,7 @@ A comprehensive index of all problems in this repository, organized by category 
 | Remove Duplicates from Sorted Array II | Arrays | Two Pointers | ✅ Complete | [View](./Arrays/RemoveDuplicatesFromSortedArrayII.md) |
 | Minimum Operations to Transform String | Strings | String Manipulation | ✅ Complete | [View](./Strings/MinimumOperationsToTransformString.md) |
 | Count Bowl Subarrays | Arrays | Monotonic Stack | ✅ Complete | [View](./Arrays/CountBowlSubarrays.md) |
+| Best Time to Buy and Sell Stock II | Arrays | Greedy | ✅ Complete | [View](./Arrays/BestTimeToBuyAndSellStockII.md) |
 
 ### Hard Problems
 | Problem | Category | Pattern | Status | Link |
@@ -110,6 +112,7 @@ A comprehensive index of all problems in this repository, organized by category 
 | Problem | Difficulty | Status | Link |
 |---------|------------|--------|------|
 | Best Time to Buy and Sell Stock | Easy | ✅ Complete | [View](./Arrays/BestTimeToBuyAndSellStock.md) |
+| Best Time to Buy and Sell Stock II | Medium | ✅ Complete | [View](./Arrays/BestTimeToBuyAndSellStockII.md) |
 
 ### Monotonic Stack
 | Problem | Difficulty | Status | Link |
@@ -128,7 +131,7 @@ A comprehensive index of all problems in this repository, organized by category 
 ## 📈 Progress Tracking
 
 ### Completion Status
-- ✅ **Completed**: 9 problems
+- ✅ **Completed**: 10 problems
 - 🔄 **In Progress**: 0 problems  
 - 📝 **Planned**: 0 problems
 
@@ -150,4 +153,4 @@ A comprehensive index of all problems in this repository, organized by category 
 ---
 
 *Last updated: $(date)*
-*Total problems: 9*
+*Total problems: 10*
