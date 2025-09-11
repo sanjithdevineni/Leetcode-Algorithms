@@ -71,6 +71,7 @@ A comprehensive collection of algorithms and problem-solving patterns used in Le
 | [Jump Game](./Arrays/JumpGame.md) | Arrays | Medium | Greedy | ✅ Complete |
 | [Jump Game II](./Arrays/JumpGameII.md) | Arrays | Medium | Greedy | ✅ Complete |
 | [H-Index](./Arrays/HIndex.md) | Arrays | Medium | Sorting | ✅ Complete |
+| [Insert Delete GetRandom O(1)](./DataStructures/InsertDeleteGetRandomO1.md) | Data Structures | Medium | Data Structure Design | ✅ Complete |
 
 ## 🔧 Algorithm Patterns
 
