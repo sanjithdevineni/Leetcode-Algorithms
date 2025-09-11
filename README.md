@@ -69,6 +69,7 @@ A comprehensive collection of algorithms and problem-solving patterns used in Le
 | [Best Time to Buy and Sell Stock](./Arrays/BestTimeToBuyAndSellStock.md) | Arrays | Easy | Greedy | ✅ Complete |
 | [Best Time to Buy and Sell Stock II](./Arrays/BestTimeToBuyAndSellStockII.md) | Arrays | Medium | Greedy | ✅ Complete |
 | [Jump Game](./Arrays/JumpGame.md) | Arrays | Medium | Greedy | ✅ Complete |
+| [Jump Game II](./Arrays/JumpGameII.md) | Arrays | Medium | Greedy | ✅ Complete |
 
 ## 🔧 Algorithm Patterns
 
