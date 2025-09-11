@@ -70,6 +70,7 @@ A comprehensive collection of algorithms and problem-solving patterns used in Le
 | [Best Time to Buy and Sell Stock II](./Arrays/BestTimeToBuyAndSellStockII.md) | Arrays | Medium | Greedy | ✅ Complete |
 | [Jump Game](./Arrays/JumpGame.md) | Arrays | Medium | Greedy | ✅ Complete |
 | [Jump Game II](./Arrays/JumpGameII.md) | Arrays | Medium | Greedy | ✅ Complete |
+| [H-Index](./Arrays/HIndex.md) | Arrays | Medium | Sorting | ✅ Complete |
 
 ## 🔧 Algorithm Patterns
 

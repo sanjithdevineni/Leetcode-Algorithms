@@ -3,9 +3,9 @@
 A comprehensive index of all problems in this repository, organized by category and difficulty.
 
 ## 📊 Summary Statistics
-- **Total Problems**: 12
+- **Total Problems**: 13
 - **Easy**: 4
-- **Medium**: 7  
+- **Medium**: 8  
 - **Hard**: 1
 
 ## 🎯 By Category
@@ -23,6 +23,7 @@ A comprehensive index of all problems in this repository, organized by category 
 | Best Time to Buy and Sell Stock II | Medium | Greedy | ✅ Complete | [View](./Arrays/BestTimeToBuyAndSellStockII.md) |
 | Jump Game | Medium | Greedy | ✅ Complete | [View](./Arrays/JumpGame.md) |
 | Jump Game II | Medium | Greedy | ✅ Complete | [View](./Arrays/JumpGameII.md) |
+| H-Index | Medium | Sorting | ✅ Complete | [View](./Arrays/HIndex.md) |
 
 ### Strings
 | Problem | Difficulty | Pattern | Status | Link |
@@ -74,6 +75,7 @@ A comprehensive index of all problems in this repository, organized by category 
 | Best Time to Buy and Sell Stock II | Arrays | Greedy | ✅ Complete | [View](./Arrays/BestTimeToBuyAndSellStockII.md) |
 | Jump Game | Arrays | Greedy | ✅ Complete | [View](./Arrays/JumpGame.md) |
 | Jump Game II | Arrays | Greedy | ✅ Complete | [View](./Arrays/JumpGameII.md) |
+| H-Index | Arrays | Sorting | ✅ Complete | [View](./Arrays/HIndex.md) |
 
 ### Hard Problems
 | Problem | Category | Pattern | Status | Link |
@@ -119,11 +121,17 @@ A comprehensive index of all problems in this repository, organized by category 
 | Best Time to Buy and Sell Stock II | Medium | ✅ Complete | [View](./Arrays/BestTimeToBuyAndSellStockII.md) |
 | Jump Game | Medium | ✅ Complete | [View](./Arrays/JumpGame.md) |
 | Jump Game II | Medium | ✅ Complete | [View](./Arrays/JumpGameII.md) |
+| H-Index | Medium | ✅ Complete | [View](./Arrays/HIndex.md) |
 
 ### Monotonic Stack
 | Problem | Difficulty | Status | Link |
 |---------|------------|--------|------|
 | Count Bowl Subarrays | Medium | ✅ Complete | [View](./Arrays/CountBowlSubarrays.md) |
+
+### Sorting
+| Problem | Difficulty | Status | Link |
+|---------|------------|--------|------|
+| H-Index | Medium | ✅ Complete | [View](./Arrays/HIndex.md) |
 
 ### Binary Search
 *No problems yet*
@@ -137,7 +145,7 @@ A comprehensive index of all problems in this repository, organized by category 
 ## 📈 Progress Tracking
 
 ### Completion Status
-- ✅ **Completed**: 12 problems
+- ✅ **Completed**: 13 problems
 - 🔄 **In Progress**: 0 problems  
 - 📝 **Planned**: 0 problems
 
@@ -159,4 +167,4 @@ A comprehensive index of all problems in this repository, organized by category 
 ---
 
 *Last updated: $(date)*
-*Total problems: 12*
+*Total problems: 13*
