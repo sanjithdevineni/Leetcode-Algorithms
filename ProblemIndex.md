@@ -3,9 +3,9 @@
 A comprehensive index of all problems in this repository, organized by category and difficulty.
 
 ## 📊 Summary Statistics
-- **Total Problems**: 10
+- **Total Problems**: 11
 - **Easy**: 4
-- **Medium**: 5  
+- **Medium**: 6  
 - **Hard**: 1
 
 ## 🎯 By Category
@@ -21,6 +21,7 @@ A comprehensive index of all problems in this repository, organized by category 
 | Count Bowl Subarrays | Medium | Monotonic Stack | ✅ Complete | [View](./Arrays/CountBowlSubarrays.md) |
 | Best Time to Buy and Sell Stock | Easy | Greedy | ✅ Complete | [View](./Arrays/BestTimeToBuyAndSellStock.md) |
 | Best Time to Buy and Sell Stock II | Medium | Greedy | ✅ Complete | [View](./Arrays/BestTimeToBuyAndSellStockII.md) |
+| Jump Game | Medium | Greedy | ✅ Complete | [View](./Arrays/JumpGame.md) |
 
 ### Strings
 | Problem | Difficulty | Pattern | Status | Link |
@@ -70,6 +71,7 @@ A comprehensive index of all problems in this repository, organized by category 
 | Minimum Operations to Transform String | Strings | String Manipulation | ✅ Complete | [View](./Strings/MinimumOperationsToTransformString.md) |
 | Count Bowl Subarrays | Arrays | Monotonic Stack | ✅ Complete | [View](./Arrays/CountBowlSubarrays.md) |
 | Best Time to Buy and Sell Stock II | Arrays | Greedy | ✅ Complete | [View](./Arrays/BestTimeToBuyAndSellStockII.md) |
+| Jump Game | Arrays | Greedy | ✅ Complete | [View](./Arrays/JumpGame.md) |
 
 ### Hard Problems
 | Problem | Category | Pattern | Status | Link |
@@ -113,6 +115,7 @@ A comprehensive index of all problems in this repository, organized by category 
 |---------|------------|--------|------|
 | Best Time to Buy and Sell Stock | Easy | ✅ Complete | [View](./Arrays/BestTimeToBuyAndSellStock.md) |
 | Best Time to Buy and Sell Stock II | Medium | ✅ Complete | [View](./Arrays/BestTimeToBuyAndSellStockII.md) |
+| Jump Game | Medium | ✅ Complete | [View](./Arrays/JumpGame.md) |
 
 ### Monotonic Stack
 | Problem | Difficulty | Status | Link |
@@ -131,7 +134,7 @@ A comprehensive index of all problems in this repository, organized by category 
 ## 📈 Progress Tracking
 
 ### Completion Status
-- ✅ **Completed**: 10 problems
+- ✅ **Completed**: 11 problems
 - 🔄 **In Progress**: 0 problems  
 - 📝 **Planned**: 0 problems
 
@@ -153,4 +156,4 @@ A comprehensive index of all problems in this repository, organized by category 
 ---
 
 *Last updated: $(date)*
-*Total problems: 10*
+*Total problems: 11*
