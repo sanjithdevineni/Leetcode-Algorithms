@@ -3,9 +3,9 @@
 A comprehensive index of all problems in this repository, organized by category and difficulty.
 
 ## 📊 Summary Statistics
-- **Total Problems**: 14
+- **Total Problems**: 15
 - **Easy**: 4
-- **Medium**: 9  
+- **Medium**: 10  
 - **Hard**: 1
 
 ## 🎯 By Category
@@ -24,6 +24,7 @@ A comprehensive index of all problems in this repository, organized by category 
 | Jump Game | Medium | Greedy | ✅ Complete | [View](./Arrays/JumpGame.md) |
 | Jump Game II | Medium | Greedy | ✅ Complete | [View](./Arrays/JumpGameII.md) |
 | H-Index | Medium | Sorting | ✅ Complete | [View](./Arrays/HIndex.md) |
+| Product of Array Except Self | Medium | Prefix/Suffix | ✅ Complete | [View](./Arrays/ProductOfArrayExceptSelf.md) |
 
 ### Strings
 | Problem | Difficulty | Pattern | Status | Link |
@@ -81,6 +82,7 @@ A comprehensive index of all problems in this repository, organized by category 
 | Jump Game | Arrays | Greedy | ✅ Complete | [View](./Arrays/JumpGame.md) |
 | Jump Game II | Arrays | Greedy | ✅ Complete | [View](./Arrays/JumpGameII.md) |
 | H-Index | Arrays | Sorting | ✅ Complete | [View](./Arrays/HIndex.md) |
+| Product of Array Except Self | Arrays | Prefix/Suffix | ✅ Complete | [View](./Arrays/ProductOfArrayExceptSelf.md) |
 | Insert Delete GetRandom O(1) | Data Structures | Data Structure Design | ✅ Complete | [View](./DataStructures/InsertDeleteGetRandomO1.md) |
 
 ### Hard Problems
@@ -139,6 +141,11 @@ A comprehensive index of all problems in this repository, organized by category 
 |---------|------------|--------|------|
 | H-Index | Medium | ✅ Complete | [View](./Arrays/HIndex.md) |
 
+### Prefix/Suffix
+| Problem | Difficulty | Status | Link |
+|---------|------------|--------|------|
+| Product of Array Except Self | Medium | ✅ Complete | [View](./Arrays/ProductOfArrayExceptSelf.md) |
+
 ### Data Structure Design
 | Problem | Difficulty | Status | Link |
 |---------|------------|--------|------|
@@ -156,7 +163,7 @@ A comprehensive index of all problems in this repository, organized by category 
 ## 📈 Progress Tracking
 
 ### Completion Status
-- ✅ **Completed**: 14 problems
+- ✅ **Completed**: 15 problems
 - 🔄 **In Progress**: 0 problems  
 - 📝 **Planned**: 0 problems
 
@@ -178,4 +185,4 @@ A comprehensive index of all problems in this repository, organized by category 
 ---
 
 *Last updated: $(date)*
-*Total problems: 14*
+*Total problems: 15*
