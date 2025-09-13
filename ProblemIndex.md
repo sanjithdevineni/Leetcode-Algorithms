@@ -3,8 +3,8 @@
 A comprehensive index of all problems in this repository, organized by category and difficulty.
 
 ## 📊 Summary Statistics
-- **Total Problems**: 16
-- **Easy**: 4
+- **Total Problems**: 17
+- **Easy**: 5
 - **Medium**: 11  
 - **Hard**: 1
 
@@ -26,6 +26,7 @@ A comprehensive index of all problems in this repository, organized by category 
 | H-Index | Medium | Sorting | ✅ Complete | [View](./Arrays/HIndex.md) |
 | Product of Array Except Self | Medium | Prefix/Suffix | ✅ Complete | [View](./Arrays/ProductOfArrayExceptSelf.md) |
 | Gas Station | Medium | Greedy | ✅ Complete | [View](./Arrays/GasStation.md) |
+| Smallest Absent Positive Greater Than Average | Easy | Mathematical Search | ✅ Complete | [View](./Arrays/SmallestAbsentPositiveGreaterThanAverage.md) |
 
 ### Strings
 | Problem | Difficulty | Pattern | Status | Link |
@@ -71,6 +72,7 @@ A comprehensive index of all problems in this repository, organized by category 
 | Remove Duplicates from Sorted Array | Arrays | Two Pointers | ✅ Complete | [View](./Arrays/RemoveDuplicatesFromSortedArray.md) |
 | Minimum Operations to Equalize Array | Arrays | Bitwise Operations | ✅ Complete | [View](./Arrays/MinimumOperationsToEqualizeArray.md) |
 | Best Time to Buy and Sell Stock | Arrays | Greedy | ✅ Complete | [View](./Arrays/BestTimeToBuyAndSellStock.md) |
+| Smallest Absent Positive Greater Than Average | Arrays | Mathematical Search | ✅ Complete | [View](./Arrays/SmallestAbsentPositiveGreaterThanAverage.md) |
 
 ### Medium Problems
 | Problem | Category | Pattern | Status | Link |
@@ -85,6 +87,7 @@ A comprehensive index of all problems in this repository, organized by category 
 | H-Index | Arrays | Sorting | ✅ Complete | [View](./Arrays/HIndex.md) |
 | Product of Array Except Self | Arrays | Prefix/Suffix | ✅ Complete | [View](./Arrays/ProductOfArrayExceptSelf.md) |
 | Gas Station | Arrays | Greedy | ✅ Complete | [View](./Arrays/GasStation.md) |
+| Smallest Absent Positive Greater Than Average | Arrays | Mathematical Search | ✅ Complete | [View](./Arrays/SmallestAbsentPositiveGreaterThanAverage.md) |
 | Insert Delete GetRandom O(1) | Data Structures | Data Structure Design | ✅ Complete | [View](./DataStructures/InsertDeleteGetRandomO1.md) |
 
 ### Hard Problems
@@ -148,6 +151,11 @@ A comprehensive index of all problems in this repository, organized by category 
 | Problem | Difficulty | Status | Link |
 |---------|------------|--------|------|
 | Product of Array Except Self | Medium | ✅ Complete | [View](./Arrays/ProductOfArrayExceptSelf.md) |
+
+### Mathematical Search
+| Problem | Difficulty | Status | Link |
+|---------|------------|--------|------|
+| Smallest Absent Positive Greater Than Average | Easy | ✅ Complete | [View](./Arrays/SmallestAbsentPositiveGreaterThanAverage.md) |
 | Gas Station | Medium | ✅ Complete | [View](./Arrays/GasStation.md) |
 
 ### Data Structure Design
@@ -167,7 +175,7 @@ A comprehensive index of all problems in this repository, organized by category 
 ## 📈 Progress Tracking
 
 ### Completion Status
-- ✅ **Completed**: 16 problems
+- ✅ **Completed**: 17 problems
 - 🔄 **In Progress**: 0 problems  
 - 📝 **Planned**: 0 problems
 
@@ -189,4 +197,4 @@ A comprehensive index of all problems in this repository, organized by category 
 ---
 
 *Last updated: $(date)*
-*Total problems: 16*
+*Total problems: 17*
