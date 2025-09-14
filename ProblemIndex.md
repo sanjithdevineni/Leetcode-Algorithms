@@ -3,8 +3,8 @@
 A comprehensive index of all problems in this repository, organized by category and difficulty.
 
 ## 📊 Summary Statistics
-- **Total Problems**: 17
-- **Easy**: 5
+- **Total Problems**: 18
+- **Easy**: 6
 - **Medium**: 11  
 - **Hard**: 1
 
@@ -27,6 +27,7 @@ A comprehensive index of all problems in this repository, organized by category 
 | Product of Array Except Self | Medium | Prefix/Suffix | ✅ Complete | [View](./Arrays/ProductOfArrayExceptSelf.md) |
 | Gas Station | Medium | Greedy | ✅ Complete | [View](./Arrays/GasStation.md) |
 | Smallest Absent Positive Greater Than Average | Easy | Mathematical Search | ✅ Complete | [View](./Arrays/SmallestAbsentPositiveGreaterThanAverage.md) |
+| Earliest Time to Finish One Task | Easy | Mathematical Optimization | ✅ Complete | [View](./Arrays/EarliestTimeToFinishOneTask.md) |
 
 ### Strings
 | Problem | Difficulty | Pattern | Status | Link |
@@ -156,6 +157,11 @@ A comprehensive index of all problems in this repository, organized by category 
 | Problem | Difficulty | Status | Link |
 |---------|------------|--------|------|
 | Smallest Absent Positive Greater Than Average | Easy | ✅ Complete | [View](./Arrays/SmallestAbsentPositiveGreaterThanAverage.md) |
+
+### Mathematical Optimization
+| Problem | Difficulty | Status | Link |
+|---------|------------|--------|------|
+| Earliest Time to Finish One Task | Easy | ✅ Complete | [View](./Arrays/EarliestTimeToFinishOneTask.md) |
 | Gas Station | Medium | ✅ Complete | [View](./Arrays/GasStation.md) |
 
 ### Data Structure Design
@@ -175,7 +181,7 @@ A comprehensive index of all problems in this repository, organized by category 
 ## 📈 Progress Tracking
 
 ### Completion Status
-- ✅ **Completed**: 17 problems
+- ✅ **Completed**: 18 problems
 - 🔄 **In Progress**: 0 problems  
 - 📝 **Planned**: 0 problems
 
@@ -197,4 +203,4 @@ A comprehensive index of all problems in this repository, organized by category 
 ---
 
 *Last updated: $(date)*
-*Total problems: 17*
+*Total problems: 18*

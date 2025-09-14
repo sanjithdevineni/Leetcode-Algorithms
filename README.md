@@ -75,6 +75,7 @@ A comprehensive collection of algorithms and problem-solving patterns used in Le
 | [Product of Array Except Self](./Arrays/ProductOfArrayExceptSelf.md) | Arrays | Medium | Prefix/Suffix | ✅ Complete |
 | [Gas Station](./Arrays/GasStation.md) | Arrays | Medium | Greedy | ✅ Complete |
 | [Smallest Absent Positive Greater Than Average](./Arrays/SmallestAbsentPositiveGreaterThanAverage.md) | Arrays | Easy | Mathematical Search | ✅ Complete |
+| [Earliest Time to Finish One Task](./Arrays/EarliestTimeToFinishOneTask.md) | Arrays | Easy | Mathematical Optimization | ✅ Complete |
 
 ## 🔧 Algorithm Patterns
 
