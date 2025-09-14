@@ -3,8 +3,8 @@
 A comprehensive index of all problems in this repository, organized by category and difficulty.
 
 ## 📊 Summary Statistics
-- **Total Problems**: 18
-- **Easy**: 6
+- **Total Problems**: 19
+- **Easy**: 7
 - **Medium**: 11  
 - **Hard**: 1
 
@@ -28,6 +28,7 @@ A comprehensive index of all problems in this repository, organized by category 
 | Gas Station | Medium | Greedy | ✅ Complete | [View](./Arrays/GasStation.md) |
 | Smallest Absent Positive Greater Than Average | Easy | Mathematical Search | ✅ Complete | [View](./Arrays/SmallestAbsentPositiveGreaterThanAverage.md) |
 | Earliest Time to Finish One Task | Easy | Mathematical Optimization | ✅ Complete | [View](./Arrays/EarliestTimeToFinishOneTask.md) |
+| Maximize Sum of At Most K Distinct Elements | Easy | Greedy | ✅ Complete | [View](./Arrays/MaximizeSumOfAtMostKDistinctElements.md) |
 
 ### Strings
 | Problem | Difficulty | Pattern | Status | Link |
@@ -181,7 +182,7 @@ A comprehensive index of all problems in this repository, organized by category 
 ## 📈 Progress Tracking
 
 ### Completion Status
-- ✅ **Completed**: 18 problems
+- ✅ **Completed**: 19 problems
 - 🔄 **In Progress**: 0 problems  
 - 📝 **Planned**: 0 problems
 
@@ -203,4 +204,4 @@ A comprehensive index of all problems in this repository, organized by category 
 ---
 
 *Last updated: $(date)*
-*Total problems: 18*
+*Total problems: 19*
