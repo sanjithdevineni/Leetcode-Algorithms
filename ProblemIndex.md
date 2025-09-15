@@ -3,10 +3,10 @@
 A comprehensive index of all problems in this repository, organized by category and difficulty.
 
 ## 📊 Summary Statistics
-- **Total Problems**: 20
+- **Total Problems**: 21
 - **Easy**: 7
 - **Medium**: 12  
-- **Hard**: 1
+- **Hard**: 2
 
 ## 🎯 By Category
 
@@ -30,6 +30,7 @@ A comprehensive index of all problems in this repository, organized by category 
 | Earliest Time to Finish One Task | Easy | Mathematical Optimization | ✅ Complete | [View](./Arrays/EarliestTimeToFinishOneTask.md) |
 | Maximize Sum of At Most K Distinct Elements | Easy | Greedy | ✅ Complete | [View](./Arrays/MaximizeSumOfAtMostKDistinctElements.md) |
 | Subsequence Sum After Capping Elements | Medium | Dynamic Programming | ✅ Complete | [View](./Arrays/SubsequenceSumAfterCappingElements.md) |
+| Number of Stable Subsequences | Hard | State-Based DP | ✅ Complete | [View](./Arrays/NumberOfStableSubsequences.md) |
 
 ### Strings
 | Problem | Difficulty | Pattern | Status | Link |
@@ -131,6 +132,7 @@ A comprehensive index of all problems in this repository, organized by category 
 | Problem | Difficulty | Status | Link |
 |---------|------------|--------|------|
 | Subsequence Sum After Capping Elements | Medium | ✅ Complete | [View](./Arrays/SubsequenceSumAfterCappingElements.md) |
+| Number of Stable Subsequences | Hard | ✅ Complete | [View](./Arrays/NumberOfStableSubsequences.md) |
 
 ### Greedy
 | Problem | Difficulty | Status | Link |
@@ -181,11 +183,12 @@ A comprehensive index of all problems in this repository, organized by category 
 |---------|------------|--------|------|
 | Minimum Operations to Equalize Array | Easy | ✅ Complete | [View](./Arrays/MinimumOperationsToEqualizeArray.md) |
 | Count Binary Palindromic Numbers | Hard | ✅ Complete | [View](./Math/CountBinaryPalindromicNumbers.md) |
+| Number of Stable Subsequences | Hard | ✅ Complete | [View](./Arrays/NumberOfStableSubsequences.md) |
 
 ## 📈 Progress Tracking
 
 ### Completion Status
-- ✅ **Completed**: 20 problems
+- ✅ **Completed**: 21 problems
 - 🔄 **In Progress**: 0 problems  
 - 📝 **Planned**: 0 problems
 
@@ -207,4 +210,4 @@ A comprehensive index of all problems in this repository, organized by category 
 ---
 
 *Last updated: $(date)*
-*Total problems: 20*
+*Total problems: 21*
