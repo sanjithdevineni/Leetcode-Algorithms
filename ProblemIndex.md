@@ -3,9 +3,9 @@
 A comprehensive index of all problems in this repository, organized by category and difficulty.
 
 ## 📊 Summary Statistics
-- **Total Problems**: 19
+- **Total Problems**: 20
 - **Easy**: 7
-- **Medium**: 11  
+- **Medium**: 12  
 - **Hard**: 1
 
 ## 🎯 By Category
@@ -29,6 +29,7 @@ A comprehensive index of all problems in this repository, organized by category 
 | Smallest Absent Positive Greater Than Average | Easy | Mathematical Search | ✅ Complete | [View](./Arrays/SmallestAbsentPositiveGreaterThanAverage.md) |
 | Earliest Time to Finish One Task | Easy | Mathematical Optimization | ✅ Complete | [View](./Arrays/EarliestTimeToFinishOneTask.md) |
 | Maximize Sum of At Most K Distinct Elements | Easy | Greedy | ✅ Complete | [View](./Arrays/MaximizeSumOfAtMostKDistinctElements.md) |
+| Subsequence Sum After Capping Elements | Medium | Dynamic Programming | ✅ Complete | [View](./Arrays/SubsequenceSumAfterCappingElements.md) |
 
 ### Strings
 | Problem | Difficulty | Pattern | Status | Link |
@@ -127,7 +128,9 @@ A comprehensive index of all problems in this repository, organized by category 
 *No problems yet*
 
 ### Dynamic Programming
-*No problems yet*
+| Problem | Difficulty | Status | Link |
+|---------|------------|--------|------|
+| Subsequence Sum After Capping Elements | Medium | ✅ Complete | [View](./Arrays/SubsequenceSumAfterCappingElements.md) |
 
 ### Greedy
 | Problem | Difficulty | Status | Link |
@@ -182,7 +185,7 @@ A comprehensive index of all problems in this repository, organized by category 
 ## 📈 Progress Tracking
 
 ### Completion Status
-- ✅ **Completed**: 19 problems
+- ✅ **Completed**: 20 problems
 - 🔄 **In Progress**: 0 problems  
 - 📝 **Planned**: 0 problems
 
@@ -204,4 +207,4 @@ A comprehensive index of all problems in this repository, organized by category 
 ---
 
 *Last updated: $(date)*
-*Total problems: 19*
+*Total problems: 20*

@@ -77,6 +77,7 @@ A comprehensive collection of algorithms and problem-solving patterns used in Le
 | [Smallest Absent Positive Greater Than Average](./Arrays/SmallestAbsentPositiveGreaterThanAverage.md) | Arrays | Easy | Mathematical Search | ✅ Complete |
 | [Earliest Time to Finish One Task](./Arrays/EarliestTimeToFinishOneTask.md) | Arrays | Easy | Mathematical Optimization | ✅ Complete |
 | [Maximize Sum of At Most K Distinct Elements](./Arrays/MaximizeSumOfAtMostKDistinctElements.md) | Arrays | Easy | Greedy | ✅ Complete |
+| [Subsequence Sum After Capping Elements](./Arrays/SubsequenceSumAfterCappingElements.md) | Arrays | Medium | Dynamic Programming | ✅ Complete |
 
 ## 🔧 Algorithm Patterns
 
