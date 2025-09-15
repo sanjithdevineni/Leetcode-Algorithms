@@ -3,9 +3,9 @@
 A comprehensive index of all problems in this repository, organized by category and difficulty.
 
 ## 📊 Summary Statistics
-- **Total Problems**: 21
+- **Total Problems**: 22
 - **Easy**: 7
-- **Medium**: 12  
+- **Medium**: 13  
 - **Hard**: 2
 
 ## 🎯 By Category
@@ -31,6 +31,7 @@ A comprehensive index of all problems in this repository, organized by category 
 | Maximize Sum of At Most K Distinct Elements | Easy | Greedy | ✅ Complete | [View](./Arrays/MaximizeSumOfAtMostKDistinctElements.md) |
 | Subsequence Sum After Capping Elements | Medium | Dynamic Programming | ✅ Complete | [View](./Arrays/SubsequenceSumAfterCappingElements.md) |
 | Number of Stable Subsequences | Hard | State-Based DP | ✅ Complete | [View](./Arrays/NumberOfStableSubsequences.md) |
+| Minimum Discards to Balance Inventory | Medium | Sliding Window | ✅ Complete | [View](./Arrays/MinimumDiscardsToBalanceInventory.md) |
 
 ### Strings
 | Problem | Difficulty | Pattern | Status | Link |
@@ -118,7 +119,9 @@ A comprehensive index of all problems in this repository, organized by category 
 | Remove Duplicates from Sorted Array II | Medium | ✅ Complete | [View](./Arrays/RemoveDuplicatesFromSortedArrayII.md) |
 
 ### Sliding Window
-*No problems yet*
+| Problem | Difficulty | Status | Link |
+|---------|------------|--------|------|
+| Minimum Discards to Balance Inventory | Medium | ✅ Complete | [View](./Arrays/MinimumDiscardsToBalanceInventory.md) |
 
 ### String Manipulation
 | Problem | Difficulty | Status | Link |
@@ -188,7 +191,7 @@ A comprehensive index of all problems in this repository, organized by category 
 ## 📈 Progress Tracking
 
 ### Completion Status
-- ✅ **Completed**: 21 problems
+- ✅ **Completed**: 22 problems
 - 🔄 **In Progress**: 0 problems  
 - 📝 **Planned**: 0 problems
 
@@ -210,4 +213,4 @@ A comprehensive index of all problems in this repository, organized by category 
 ---
 
 *Last updated: $(date)*
-*Total problems: 21*
+*Total problems: 22*

@@ -79,6 +79,7 @@ A comprehensive collection of algorithms and problem-solving patterns used in Le
 | [Maximize Sum of At Most K Distinct Elements](./Arrays/MaximizeSumOfAtMostKDistinctElements.md) | Arrays | Easy | Greedy | ✅ Complete |
 | [Subsequence Sum After Capping Elements](./Arrays/SubsequenceSumAfterCappingElements.md) | Arrays | Medium | Dynamic Programming | ✅ Complete |
 | [Number of Stable Subsequences](./Arrays/NumberOfStableSubsequences.md) | Arrays | Hard | State-Based DP | ✅ Complete |
+| [Minimum Discards to Balance Inventory](./Arrays/MinimumDiscardsToBalanceInventory.md) | Arrays | Medium | Sliding Window | ✅ Complete |
 
 ## 🔧 Algorithm Patterns
 
