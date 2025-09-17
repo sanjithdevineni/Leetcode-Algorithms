@@ -80,6 +80,7 @@ A comprehensive collection of algorithms and problem-solving patterns used in Le
 | [Subsequence Sum After Capping Elements](./Arrays/SubsequenceSumAfterCappingElements.md) | Arrays | Medium | Dynamic Programming | ✅ Complete |
 | [Number of Stable Subsequences](./Arrays/NumberOfStableSubsequences.md) | Arrays | Hard | State-Based DP | ✅ Complete |
 | [Minimum Discards to Balance Inventory](./Arrays/MinimumDiscardsToBalanceInventory.md) | Arrays | Medium | Sliding Window | ✅ Complete |
+| [Candy](./Arrays/Candy.md) | Arrays | Hard | Two-Pass Greedy | ✅ Complete |
 
 ## 🔧 Algorithm Patterns
 

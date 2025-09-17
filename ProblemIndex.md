@@ -3,10 +3,10 @@
 A comprehensive index of all problems in this repository, organized by category and difficulty.
 
 ## 📊 Summary Statistics
-- **Total Problems**: 22
+- **Total Problems**: 23
 - **Easy**: 7
 - **Medium**: 13  
-- **Hard**: 2
+- **Hard**: 3
 
 ## 🎯 By Category
 
@@ -32,6 +32,7 @@ A comprehensive index of all problems in this repository, organized by category 
 | Subsequence Sum After Capping Elements | Medium | Dynamic Programming | ✅ Complete | [View](./Arrays/SubsequenceSumAfterCappingElements.md) |
 | Number of Stable Subsequences | Hard | State-Based DP | ✅ Complete | [View](./Arrays/NumberOfStableSubsequences.md) |
 | Minimum Discards to Balance Inventory | Medium | Sliding Window | ✅ Complete | [View](./Arrays/MinimumDiscardsToBalanceInventory.md) |
+| Candy | Hard | Two-Pass Greedy | ✅ Complete | [View](./Arrays/Candy.md) |
 
 ### Strings
 | Problem | Difficulty | Pattern | Status | Link |
@@ -99,6 +100,7 @@ A comprehensive index of all problems in this repository, organized by category 
 | Problem | Category | Pattern | Status | Link |
 |---------|----------|---------|--------|------|
 | Count Binary Palindromic Numbers | Math | Bit Manipulation | ✅ Complete | [View](./Math/CountBinaryPalindromicNumbers.md) |
+| Candy | Arrays | Two-Pass Greedy | ✅ Complete | [View](./Arrays/Candy.md) |
 
 ## 🎨 By Pattern
 
@@ -122,6 +124,11 @@ A comprehensive index of all problems in this repository, organized by category 
 | Problem | Difficulty | Status | Link |
 |---------|------------|--------|------|
 | Minimum Discards to Balance Inventory | Medium | ✅ Complete | [View](./Arrays/MinimumDiscardsToBalanceInventory.md) |
+
+### Two-Pass Greedy
+| Problem | Difficulty | Status | Link |
+|---------|------------|--------|------|
+| Candy | Hard | ✅ Complete | [View](./Arrays/Candy.md) |
 
 ### String Manipulation
 | Problem | Difficulty | Status | Link |
@@ -191,7 +198,7 @@ A comprehensive index of all problems in this repository, organized by category 
 ## 📈 Progress Tracking
 
 ### Completion Status
-- ✅ **Completed**: 22 problems
+- ✅ **Completed**: 23 problems
 - 🔄 **In Progress**: 0 problems  
 - 📝 **Planned**: 0 problems
 
@@ -213,4 +220,4 @@ A comprehensive index of all problems in this repository, organized by category 
 ---
 
 *Last updated: $(date)*
-*Total problems: 22*
+*Total problems: 23*
