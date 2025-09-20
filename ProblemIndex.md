@@ -3,8 +3,8 @@
 A comprehensive index of all problems in this repository, organized by category and difficulty.
 
 ## 📊 Summary Statistics
-- **Total Problems**: 23
-- **Easy**: 7
+- **Total Problems**: 24
+- **Easy**: 8
 - **Medium**: 13  
 - **Hard**: 3
 
@@ -38,6 +38,7 @@ A comprehensive index of all problems in this repository, organized by category 
 | Problem | Difficulty | Pattern | Status | Link |
 |---------|------------|---------|--------|------|
 | Minimum Operations to Transform String | Medium | String Manipulation | ✅ Complete | [View](./Strings/MinimumOperationsToTransformString.md) |
+| Roman to Integer | Easy | Lookup Table | ✅ Complete | [View](./Strings/RomanToInteger.md) |
 
 ### Linked Lists
 | Problem | Difficulty | Pattern | Status | Link |
@@ -79,6 +80,7 @@ A comprehensive index of all problems in this repository, organized by category 
 | Minimum Operations to Equalize Array | Arrays | Bitwise Operations | ✅ Complete | [View](./Arrays/MinimumOperationsToEqualizeArray.md) |
 | Best Time to Buy and Sell Stock | Arrays | Greedy | ✅ Complete | [View](./Arrays/BestTimeToBuyAndSellStock.md) |
 | Smallest Absent Positive Greater Than Average | Arrays | Mathematical Search | ✅ Complete | [View](./Arrays/SmallestAbsentPositiveGreaterThanAverage.md) |
+| Roman to Integer | Strings | Lookup Table | ✅ Complete | [View](./Strings/RomanToInteger.md) |
 
 ### Medium Problems
 | Problem | Category | Pattern | Status | Link |
@@ -134,6 +136,11 @@ A comprehensive index of all problems in this repository, organized by category 
 | Problem | Difficulty | Status | Link |
 |---------|------------|--------|------|
 | Minimum Operations to Transform String | Medium | ✅ Complete | [View](./Strings/MinimumOperationsToTransformString.md) |
+
+### Lookup Table
+| Problem | Difficulty | Status | Link |
+|---------|------------|--------|------|
+| Roman to Integer | Easy | ✅ Complete | [View](./Strings/RomanToInteger.md) |
 
 ### Tree Traversal
 *No problems yet*
@@ -198,7 +205,7 @@ A comprehensive index of all problems in this repository, organized by category 
 ## 📈 Progress Tracking
 
 ### Completion Status
-- ✅ **Completed**: 23 problems
+- ✅ **Completed**: 24 problems
 - 🔄 **In Progress**: 0 problems  
 - 📝 **Planned**: 0 problems
 
@@ -220,4 +227,4 @@ A comprehensive index of all problems in this repository, organized by category 
 ---
 
 *Last updated: $(date)*
-*Total problems: 23*
+*Total problems: 24*

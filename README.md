@@ -64,6 +64,7 @@ A comprehensive collection of algorithms and problem-solving patterns used in Le
 | [Remove Duplicates from Sorted Array II](./Arrays/RemoveDuplicatesFromSortedArrayII.md) | Arrays | Medium | Two Pointers | ✅ Complete |
 | [Minimum Operations to Equalize Array](./Arrays/MinimumOperationsToEqualizeArray.md) | Arrays | Easy | Bitwise Operations | ✅ Complete |
 | [Minimum Operations to Transform String](./Strings/MinimumOperationsToTransformString.md) | Strings | Medium | String Manipulation | ✅ Complete |
+| [Roman to Integer](./Strings/RomanToInteger.md) | Strings | Easy | Lookup Table | ✅ Complete |
 | [Count Bowl Subarrays](./Arrays/CountBowlSubarrays.md) | Arrays | Medium | Monotonic Stack | ✅ Complete |
 | [Count Binary Palindromic Numbers](./Math/CountBinaryPalindromicNumbers.md) | Math | Hard | Bit Manipulation | ✅ Complete |
 | [Best Time to Buy and Sell Stock](./Arrays/BestTimeToBuyAndSellStock.md) | Arrays | Easy | Greedy | ✅ Complete |
