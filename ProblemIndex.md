@@ -3,9 +3,9 @@
 A comprehensive index of all problems in this repository, organized by category and difficulty.
 
 ## 📊 Summary Statistics
-- **Total Problems**: 24
+- **Total Problems**: 25
 - **Easy**: 8
-- **Medium**: 13  
+- **Medium**: 14  
 - **Hard**: 3
 
 ## 🎯 By Category
@@ -39,6 +39,7 @@ A comprehensive index of all problems in this repository, organized by category 
 |---------|------------|---------|--------|------|
 | Minimum Operations to Transform String | Medium | String Manipulation | ✅ Complete | [View](./Strings/MinimumOperationsToTransformString.md) |
 | Roman to Integer | Easy | Lookup Table | ✅ Complete | [View](./Strings/RomanToInteger.md) |
+| Integer to Roman | Medium | Greedy Mapping | ✅ Complete | [View](./Strings/IntegerToRoman.md) |
 
 ### Linked Lists
 | Problem | Difficulty | Pattern | Status | Link |
@@ -97,6 +98,7 @@ A comprehensive index of all problems in this repository, organized by category 
 | Gas Station | Arrays | Greedy | ✅ Complete | [View](./Arrays/GasStation.md) |
 | Smallest Absent Positive Greater Than Average | Arrays | Mathematical Search | ✅ Complete | [View](./Arrays/SmallestAbsentPositiveGreaterThanAverage.md) |
 | Insert Delete GetRandom O(1) | Data Structures | Data Structure Design | ✅ Complete | [View](./DataStructures/InsertDeleteGetRandomO1.md) |
+| Integer to Roman | Strings | Greedy Mapping | ✅ Complete | [View](./Strings/IntegerToRoman.md) |
 
 ### Hard Problems
 | Problem | Category | Pattern | Status | Link |
@@ -141,6 +143,11 @@ A comprehensive index of all problems in this repository, organized by category 
 | Problem | Difficulty | Status | Link |
 |---------|------------|--------|------|
 | Roman to Integer | Easy | ✅ Complete | [View](./Strings/RomanToInteger.md) |
+
+### Greedy Mapping
+| Problem | Difficulty | Status | Link |
+|---------|------------|--------|------|
+| Integer to Roman | Medium | ✅ Complete | [View](./Strings/IntegerToRoman.md) |
 
 ### Tree Traversal
 *No problems yet*
@@ -205,7 +212,7 @@ A comprehensive index of all problems in this repository, organized by category 
 ## 📈 Progress Tracking
 
 ### Completion Status
-- ✅ **Completed**: 24 problems
+- ✅ **Completed**: 25 problems
 - 🔄 **In Progress**: 0 problems  
 - 📝 **Planned**: 0 problems
 
@@ -227,4 +234,4 @@ A comprehensive index of all problems in this repository, organized by category 
 ---
 
 *Last updated: $(date)*
-*Total problems: 24*
+*Total problems: 25*
